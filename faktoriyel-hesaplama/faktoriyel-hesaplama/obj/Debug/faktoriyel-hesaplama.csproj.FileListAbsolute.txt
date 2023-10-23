@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\bin\Debug\faktoriyel-hesaplama.exe.config
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\bin\Debug\faktoriyel-hesaplama.exe
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\bin\Debug\faktoriyel-hesaplama.pdb
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel-hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel-hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel_hesaplama.Form1.resources
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel_hesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel-hesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel-hesaplama.exe
+C:\Users\User\source\repos\faktoriyel-hesaplama\faktoriyel-hesaplama\obj\Debug\faktoriyel-hesaplama.pdb
